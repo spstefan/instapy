@@ -1,5 +1,4 @@
 # instapy
----
 This package contains tools for turning your image of choice into a dramatic grayscale or nostalgic sepia image.
 The package contains a selection of implementations (pure python, numpy, and numba) to perform these tasks, as well as a module to report the time it takes to run the various implementations, for comparison. Finally, the package also includes a Command Line Interface (CLI), for ease of use. 
 
